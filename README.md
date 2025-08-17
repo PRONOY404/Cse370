@@ -1,4 +1,4 @@
-                                                 **Welcome to the CSE 370 Project** 
+                                                 **ONLINE QUIZ MANAGEMENT SYSTEM* 
 
 
 
